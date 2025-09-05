@@ -451,7 +451,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-best-robotic-project-prize-at-imperial-college",
+          title: 'Best Robotic Project Prize at Imperial College',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/best_project_award/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -496,12 +501,24 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-autonomous-campus-tour-guide-robot",
+          title: 'Autonomous Campus Tour Guide Robot',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/campus_tour_robot/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%7A%65%63%68%65%6E%67.%7A%68%75%32%33@%69%6D%70%65%72%69%61%6C.%61%63.%75%6B", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/zzczjh9", "_blank");
         },
       },{
         id: 'social-inspire',
