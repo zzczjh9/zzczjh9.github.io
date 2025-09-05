@@ -37,21 +37,21 @@ My research interests lies in the intersection of learning and Robotics, aiming 
 
 Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu-2.pdf).
 
-#### Selected Projects
-
+### Selected Projects
+[View Project →](/projects/#genlocov2)
 ##### GenlocoV2: Transformer-based Generalized Locomotion Controller
 
 
 Transformer-based generalized locomotion controller for morphology & topology-agnostic policy learning across diverse robotic embodiments including quadrupeds, bipeds, and humanoids. Implemented multi-robot training pipeline with procedurally generated morphological variations and novel graph-based robot representation architecture.
 
-[View Project →](/projects/#genlocov2)
+
 
 ##### TD3 Adaptive Navigation Controller
 
 
 Used the Twin Delayed Deep Deterministic (TD3) algorithm to train an adaptive controller for Jackal robot, achieving major improvements in navigation. Specifically, with the DWA algorithm, the controller increased the success rate from 72% to 89.47% and cut average navigation time from 76.64 seconds to 50.92 seconds across 300 simulation worlds in Gazebo.
 
-[View Project →](/projects/#adaptive-navigation)
+
 
 
 
@@ -60,7 +60,7 @@ Used the Twin Delayed Deep Deterministic (TD3) algorithm to train an adaptive co
 
 Award-winning autonomous robot with vision, voice, and cloud integration for campus tours. Features self-balancing mobility using dual-loop PID/LQR control achieving <15cm positional accuracy, YOLOv8 Nano vision system, cross-platform Flutter app, and RAG campus AI chat assistant.
 
-[View Project →](/projects/#campus-tour-robot)
+
 
 
 **Languages**: Python, C++, C, SQL, SystemVerilog  
