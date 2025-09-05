@@ -9,6 +9,7 @@ github_repo: zzczjh9/genlocov2
 summary: "Transformer-based generalized locomotion controller for morphology & topology-agnostic policy learning"
 category: research
 importance: 1
+selected: true
 ---
 
 ## Overview

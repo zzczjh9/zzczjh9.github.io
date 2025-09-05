@@ -9,6 +9,7 @@ github_repo: zzczjh9/campus-tour-robot
 summary: "Award-winning autonomous robot with vision, voice, and cloud integration for campus tours"
 category: projects
 importance: 4
+selected: true
 ---
 
 ## Overview
