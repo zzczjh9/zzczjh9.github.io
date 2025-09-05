@@ -15,7 +15,10 @@ importance: 1
 
 GenlocoV2 is a Transformer-based generalized locomotion controller designed for morphology & topology-agnostic policy learning across diverse robotic embodiments including quadrupeds, bipeds, and humanoids.
 
-![GenlocoV2 Demo](/assets/img/g1_512.gif)
+<div style="text-align: center;">
+<img src="/assets/img/g1_512.gif" alt="GenlocoV2 Demo" style="width: 50%; height: auto;">
+</div>
+*Multi-robot training demonstration showing diverse robot morphologies learning locomotion*
 
 
 - **Multi-robot Training Pipeline**: Implemented procedurally generated morphological and topological variations across distinct robot types with randomized link sizes, masses, and joint configurations
