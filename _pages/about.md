@@ -14,7 +14,6 @@ profile:
     <p>Imperial College London</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-selected_projects: true # includes a list of projects marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -42,5 +41,21 @@ Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu-2.pdf).
 
 **Languages**: Python, C++, C, SQL, SystemVerilog  
 **Skills**: Isaac Sim/Gym/Lab, PyTorch, ROS, Linux, Git, Embedded Platforms (ESP/STM)
+
+### Selected Projects
+
+### GenlocoV2: Transformer-based Generalized Locomotion Controller
+**Research Project** | *Current*
+
+Transformer-based generalized locomotion controller for morphology & topology-agnostic policy learning across diverse robotic embodiments including quadrupeds, bipeds, and humanoids. Implemented multi-robot training pipeline with procedurally generated morphological variations and novel graph-based robot representation architecture.
+
+[View Project →](/projects/#genlocov2)
+
+### Autonomous Campus Tour Guide Robot
+**Academic Project** | *2024*
+
+Award-winning autonomous robot with vision, voice, and cloud integration for campus tours. Features self-balancing mobility using dual-loop PID/LQR control achieving <15cm positional accuracy, YOLOv8 Nano vision system, cross-platform Flutter app, and AWS cloud infrastructure.
+
+[View Project →](/projects/#campus-tour-robot)
 
 
