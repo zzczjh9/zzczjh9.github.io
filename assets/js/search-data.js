@@ -407,8 +407,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/best_project_award/";
-            },},{id: "projects-autonomous-campus-tour-guide-robot",
-          title: 'Autonomous Campus Tour Guide Robot',
+            },},{id: "projects-campus-tour-robot",
+          title: 'Campus Tour Robot',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/campus_tour_robot/";
@@ -417,13 +417,13 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/adaptive_navigation/";
-            },},{id: "projects-genlocov2-transformer-based-generalized-locomotion-controller",
-          title: 'GenlocoV2: Transformer-based Generalized Locomotion Controller',
+            },},{id: "projects-genlocov2",
+          title: 'GenlocoV2',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/genlocov2/";
-            },},{id: "projects-lwlab-large-scale-robotics-simulation-framework",
-          title: 'Lwlab: Large-scale Robotics Simulation Framework',
+            },},{id: "projects-lwlab",
+          title: 'Lwlab',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lwlab_simulation/";
