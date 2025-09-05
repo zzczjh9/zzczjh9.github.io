@@ -35,7 +35,7 @@ During my undergraduate studies, I am fortunate to work with [Prfs. Zhongyu Li](
 
 My research interests lies in the intersection of learning and Robotics, aiming to excavate the potential of adaptivity and agility of robots.
 
-Find more in my [Curriculum Vitae](/assets/pdf/cv.pdf).
+Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu-2.pdf).
 
 
 
