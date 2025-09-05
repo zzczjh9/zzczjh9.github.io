@@ -2,11 +2,13 @@
 layout: project
 title: "Autonomous Campus Tour Guide Robot"
 date: 2024-06-15
-image: /assets/img/robot_project.jpg
+image: /assets/img/campus_robot_demo.gif
 alt_text: "Autonomous Campus Tour Guide Robot"
 project_url: https://github.com/zzczjh9/campus-tour-robot
 github_repo: zzczjh9/campus-tour-robot
 summary: "Award-winning autonomous robot with vision, voice, and cloud integration for campus tours"
+category: projects
+importance: 4
 ---
 
 ## Overview
@@ -16,29 +18,9 @@ This project won the **Best Robotic Project Prize** at Imperial College for the 
 ## Key Features
 
 - **Self-balancing Mobility**: Dual-loop PID/LQR control achieving <15cm positional accuracy and 3s disturbance recovery
-- **Computer Vision**: YOLOv8 Nano vision system integrated on RK3588 for object detection and navigation
-- **Cross-platform Control**: Flutter app for robot control with real-time weather sensing
-- **Cloud Integration**: Real-time data processing and communication capabilities
+- **Reinforcement Learning**: Developed TD3 reinforcement learning in Gazebo with BARN dataset for trajectory following
+- **Computer Vision**: YOLOv8 Nano vision system integrated on RK3588 achieving >90% person-tracking accuracy at <100ms latency
+- **Cross-platform Control**: Flutter app for robot control with real-time weather sensing (GY-39/GPS)
+- **Cloud Infrastructure**: Deployed AWS EC2 cloud infrastructure with JWT-secured REST API, PostgreSQL, and ReactJS dashboard
+- **Voice Assistant**: Implemented RAG-enhanced voice assistant using OpenAI API with on-device MP3 playback via ESP32 I2S
 
-## Technical Implementation
-
-- **Control Systems**: Advanced PID/LQR control algorithms for precise movement
-- **Computer Vision**: YOLOv8 Nano for real-time object detection and navigation
-- **Mobile Development**: Flutter framework for cross-platform robot control
-- **Embedded Systems**: RK3588 platform for high-performance computing
-- **Cloud Services**: Real-time weather data integration
-
-## Results
-
-- Achieved <15cm positional accuracy in autonomous navigation
-- 3-second disturbance recovery time
-- Successful integration of multiple subsystems
-- Recognition as best robotic project in cohort
-
-## Technologies Used
-
-- **Languages**: Python, C++, Dart
-- **Frameworks**: Flutter, ROS
-- **Hardware**: RK3588, ESP32, STM32
-- **AI/ML**: YOLOv8, Computer Vision
-- **Cloud**: Real-time data APIs
