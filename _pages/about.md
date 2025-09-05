@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student in Electronic and Information Engineering at Imperial College London
+# subtitle: Undergraduate Student in Electronic and Information Engineering at Imperial College London
 
 profile:
   align: right
@@ -27,13 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! 👋
 
-I'm **Zecheng Zhu**, an undergraduate student pursuing a Bachelor's degree in Electronic and Information Engineering at Imperial College London.
+
+Hii! I'm an undergraduate student pursuing a Bachelor's degree in Electronic and Information Engineering at Imperial College London, interested in robotics, machine learning, and optimal control
 
 During my undergraduate studies, I am fortunate to work with [Prfs. Zhongyu Li](https://zyliatzju.github.io/) and [Prfs. Yue Wang](https://ywang-zju.github.io/) on Legged Robot and Reinforcement Learning, and intern at Lightwheel AI on Reinforcement Learning and Simulation Framework.
 
-My research interests lies in the intersection of learning and Robotics, aiming to excavate the potential of adaptivity and agility of robots.
+
 
 Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu-2.pdf).
 
