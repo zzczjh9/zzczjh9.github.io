@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Autonomous Campus Tour Guide Robot"
+title: "Campus Tour Robot"
 date: 2024-06-15
 image: /assets/img/campus_robot_demo.gif
 alt_text: "Autonomous Campus Tour Guide Robot"

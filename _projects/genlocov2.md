@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "GenlocoV2: Transformer-based Generalized Locomotion Controller"
+title: "GenlocoV2"
 date: 2025-06-01
 image: /assets/img/g1_512.gif
 alt_text: "Multi-robot locomotion training"
