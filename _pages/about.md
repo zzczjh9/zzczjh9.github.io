@@ -35,7 +35,7 @@ During my undergraduate studies, I am fortunate to work with [Prfs. Zhongyu Li](
 
 
 
-Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu-2.pdf).
+Find more in my [Curriculum Vitae](/assets/pdf/cv.pdf).
 
 ### Selected Projects
 [View Project →](/projects/#genlocov2)

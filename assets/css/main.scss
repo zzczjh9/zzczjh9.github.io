@@ -23,3 +23,22 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom styles for project cards
+.projects .card-title {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+}
+
+.projects .card-text {
+  font-size: 0.9rem !important;
+  line-height: 1.4 !important;
+}
+
+.projects .card {
+  transition: transform 0.2s ease-in-out;
+}
+
+.projects .card:hover {
+  transform: translateY(-2px);
+}
