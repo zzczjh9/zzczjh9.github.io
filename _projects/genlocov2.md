@@ -3,6 +3,7 @@ layout: project
 title: "GenlocoV2"
 date: 2025-06-01
 image: /assets/img/g1_512.gif
+img: /assets/img/g1_512.gif
 alt_text: "Multi-robot locomotion training"
 project_url: https://github.com/zzczjh9/genlocov2
 github_repo: zzczjh9/genlocov2
