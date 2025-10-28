@@ -29,9 +29,9 @@ latest_posts:
 
 
 
-Hii! I'm an undergraduate student pursuing a Bachelor's degree in Electronic and Information Engineering at Imperial College London, interested in robotics, machine learning, and optimal control
+Hii! I'm an undergraduate student in Electronic and Information Engineering at Imperial College London, supervised by [Prfs. Stephen James](https://stepjam.github.io) at [Safe Whole-body Intelligent Robotics Lab (SWIRL)](https://www.swirl.uk/home). 
 
-During my undergraduate studies, I am fortunate to work with [Prfs. Zhongyu Li](https://zyliatzju.github.io/) and [Prfs. Yue Wang](https://ywang-zju.github.io/) on Legged Robot and Reinforcement Learning, and intern at [Lightwheel AI](https://lightwheel-website.vercel.app/) on Reinforcement Learning and [Simulation Framework](https://lwlab-docs.lightwheel.net/).
+Prior to this, I am fortunate to work with [Prfs. Zhongyu Li](https://zyliatzju.github.io/) and [Prfs. Bo Tao](https://ieeexplore.ieee.org/author/37424968400) on Legged Robot and Reinforcement Learning(RL), and intern at [Lightwheel AI](https://lightwheel-website.vercel.app/) on [Simulation Framework](https://lwlab-docs.lightwheel.net/) and RL.
 
 
 
