@@ -35,7 +35,7 @@ Prior to this, I am fortunate to work with [Prfs. Zhongyu Li](https://zyliatzju.
 
 
 
-Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu__Full_-1.pdf).
+Find more in my [Curriculum Vitae](/assets/pdf/CV_Zecheng_Zhu.pdf).
 
 ### Selected Projects
 [View Project →](/projects/#genlocov2)
